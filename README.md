@@ -1,4 +1,3 @@
-# Week6-Folder-Maker-App
 # Week 6 Folder Maker App
 
 ## Purpose
