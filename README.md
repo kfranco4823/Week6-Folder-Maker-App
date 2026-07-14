@@ -11,17 +11,28 @@ the top and from their a command prompt will open where you will now direct your
 
 ## Folder Structure Created
 [Inserted Name]\Branches
+
 [Inserted Name]\Branches\Calvard
+
 [Inserted Name]\Branches\Crossbell
+
 [Inserted Name]\Branches\Erebonia
+
 [Inserted Name]\Branches\Liberl
+
 [Inserted Name]\Branches\Nord
 
+
 [Inserted Name]\Mission Types
+
 [Inserted Name]\Mission Types\Escorting to Location
+
 [Inserted Name]\Mission Types\General Assistance
+
 [Inserted Name]\Mission Types\Lost and Found
+
 [Inserted Name]\Mission Types\Monster Hunt
+
 
 ## Story to App Connection
 The story of this continent has high ranking nobles, low ranking commoners, and each with their own
